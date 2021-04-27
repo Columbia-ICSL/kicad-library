@@ -1,0 +1,9 @@
+(module M1502-B-2545-AL-TOP (layer F.Cu) (tedit 6068C44B)
+  (fp_text reference REF** (at 0 -2.7) (layer F.SilkS)
+    (effects (font (size 0.6 0.6) (thickness 0.08)))
+  )
+  (fp_text value M1502-B-2545-AL-TOP (at 0 2.8) (layer F.Fab) hide
+    (effects (font (size 0.6 0.6) (thickness 0.08)))
+  )
+  (pad 1 thru_hole circle (at 0 0) (size 4.5 4.5) (drill 2.6) (layers *.Cu *.Mask))
+)

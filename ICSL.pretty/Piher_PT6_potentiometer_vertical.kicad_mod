@@ -1,0 +1,12 @@
+(module Piher_PT6_potentiometer_vertical (layer F.Cu) (tedit 60399F06)
+  (fp_text reference REF** (at -2.54 -3.81) (layer F.SilkS)
+    (effects (font (size 0.6 0.6) (thickness 0.08)))
+  )
+  (fp_text value Piher_PT6_potentiometer_vertical (at 0 3.81) (layer F.Fab) hide
+    (effects (font (size 0.6 0.6) (thickness 0.08)))
+  )
+  (fp_circle (center 0 0) (end 0 -2.54) (layer F.SilkS) (width 0.12))
+  (pad 2 thru_hole circle (at 0 -2.5) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask))
+  (pad 1 thru_hole circle (at 2.5 2.5) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask))
+  (pad 3 thru_hole circle (at -2.5 2.5) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask))
+)

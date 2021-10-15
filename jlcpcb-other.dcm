@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AP2112K-3.3
+D 6V 400mV @ 600mA - - Fixed 3.3V SOT-25 Linear Voltage Regulators (LDO) ROHS
+K linear regulator ldo fixed positive
+F https://datasheet.lcsc.com/lcsc/1809192242_Diodes-Incorporated-AP2112K-3.3TRG1_C51118.pdf
+$ENDCMP
+#
+#End Doc Library

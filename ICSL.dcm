@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP SensorHub_Module_CONN_V1
+D CONN HDR 21POS SMD GOLD
+K connector 21pin smd
+F https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/91900.pdf
+$ENDCMP
+#
 $CMP TXB0104_UQFN
 D 4-bit Dual-supply bus transceiver
 $ENDCMP

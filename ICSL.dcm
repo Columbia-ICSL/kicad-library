@@ -10,4 +10,16 @@ $CMP TXB0104_UQFN
 D 4-bit Dual-supply bus transceiver
 $ENDCMP
 #
+$CMP qwiic_horizontal
+D qwiic I2C connector 01x04_1mm horizontal
+K JST SH connector qwiic I2C
+F ~
+$ENDCMP
+#
+$CMP qwiic_vertical
+D qwiic I2C connector 01x04_1mm horizontal
+K JST SH connector qwiic I2C
+F ~
+$ENDCMP
+#
 #End Doc Library

@@ -6,4 +6,16 @@ K linear regulator ldo fixed positive
 F https://datasheet.lcsc.com/lcsc/1809192242_Diodes-Incorporated-AP2112K-3.3TRG1_C51118.pdf
 $ENDCMP
 #
+$CMP CONN_1.25mm_8p_Horizontal
+D <A1251WR-S-8P> CJT version of Molex 53261-0871 1.25mm 8pin horizontal connector
+K connector 1.25mm
+F ~
+$ENDCMP
+#
+$CMP CONN_1.25mm_8p_Vertical
+D <A1251WV-S-8P> CJT version of Molex 53398-0871 1.25mm 8pin vertical connector
+K connector 1.25mm
+F ~
+$ENDCMP
+#
 #End Doc Library

@@ -1,6 +1,6 @@
 (footprint "TSSOP-10_3x3mm_P0.5mm" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 61F0B868)
+  (tedit 61F0DB47)
   (descr "TSSOP10: plastic thin shrink small outline package; 10 leads; body width 3 mm; (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot552-1_po.pdf)")
   (tags "SSOP 0.5")
   (attr smd)
@@ -45,6 +45,6 @@
   (model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/TSSOP-10_3x3mm_P0.5mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz 0 0 -90))
   )
 )

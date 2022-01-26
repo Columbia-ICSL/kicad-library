@@ -1,6 +1,6 @@
 (footprint "SOT-223-3_TabPin2" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 61F0B4C6)
+  (tedit 61F0DB24)
   (descr "module CMS SOT223 4 pins")
   (tags "CMS SOT")
   (attr smd)
@@ -36,6 +36,6 @@
   (model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-223.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz 0 0 180))
   )
 )

@@ -101,6 +101,11 @@
     (property "ki_fp_filters" "C_*" (id 9) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (symbol "C_0402_0.1uF_16V_0_0"
+      (text "0.1uF" (at 0.254 -1.778 0)
+        (effects (font (size 1.27 1.27)) (justify left))
+      )
+    )
     (symbol "C_0402_0.1uF_16V_0_1"
       (polyline
         (pts
@@ -160,6 +165,11 @@
     )
     (property "ki_fp_filters" "C_*" (id 9) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
+    )
+    (symbol "C_0402_0.22uF_16V_0_0"
+      (text "0.22uF" (at 0.254 -1.778 0)
+        (effects (font (size 1.27 1.27)) (justify left))
+      )
     )
     (symbol "C_0402_0.22uF_16V_0_1"
       (polyline
@@ -221,6 +231,11 @@
     (property "ki_fp_filters" "C_*" (id 9) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (symbol "C_0402_10pF_50V_0_0"
+      (text "10pF" (at 0.254 -1.778 0)
+        (effects (font (size 1.27 1.27)) (justify left))
+      )
+    )
     (symbol "C_0402_10pF_50V_0_1"
       (polyline
         (pts
@@ -280,6 +295,11 @@
     )
     (property "ki_fp_filters" "C_*" (id 9) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
+    )
+    (symbol "C_0402_18pF_50V_0_0"
+      (text "18pF" (at 0.254 -1.778 0)
+        (effects (font (size 1.27 1.27)) (justify left))
+      )
     )
     (symbol "C_0402_18pF_50V_0_1"
       (polyline
@@ -341,6 +361,11 @@
     (property "ki_fp_filters" "C_*" (id 9) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (symbol "C_0402_1uF_25V_0_0"
+      (text "1uF" (at 0.254 -1.778 0)
+        (effects (font (size 1.27 1.27)) (justify left))
+      )
+    )
     (symbol "C_0402_1uF_25V_0_1"
       (polyline
         (pts
@@ -400,6 +425,11 @@
     )
     (property "ki_fp_filters" "C_*" (id 9) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
+    )
+    (symbol "C_0402_22pF_50V_0_0"
+      (text "22pF" (at 0.254 -1.778 0)
+        (effects (font (size 1.27 1.27)) (justify left))
+      )
     )
     (symbol "C_0402_22pF_50V_0_1"
       (polyline
@@ -461,6 +491,11 @@
     (property "ki_fp_filters" "C_*" (id 9) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (symbol "C_0603_0.1uF_50V_0_0"
+      (text "0.1uF" (at 0.254 -1.778 0)
+        (effects (font (size 1.27 1.27)) (justify left))
+      )
+    )
     (symbol "C_0603_0.1uF_50V_0_1"
       (polyline
         (pts
@@ -520,6 +555,11 @@
     )
     (property "ki_fp_filters" "C_*" (id 9) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
+    )
+    (symbol "C_0603_10uF_10V_0_0"
+      (text "10uF" (at 0.254 -1.778 0)
+        (effects (font (size 1.27 1.27)) (justify left))
+      )
     )
     (symbol "C_0603_10uF_10V_0_1"
       (polyline
@@ -581,6 +621,11 @@
     (property "ki_fp_filters" "C_*" (id 9) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (symbol "C_0603_1uF_50V_0_0"
+      (text "1uF" (at 0.254 -1.778 0)
+        (effects (font (size 1.27 1.27)) (justify left))
+      )
+    )
     (symbol "C_0603_1uF_50V_0_1"
       (polyline
         (pts
@@ -641,6 +686,11 @@
     (property "ki_fp_filters" "C_*" (id 9) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (symbol "C_0603_4.7uF_16V_0_0"
+      (text "4.7uF" (at 0.254 -1.778 0)
+        (effects (font (size 1.27 1.27)) (justify left))
+      )
+    )
     (symbol "C_0603_4.7uF_16V_0_1"
       (polyline
         (pts
@@ -700,6 +750,11 @@
     )
     (property "ki_fp_filters" "C_*" (id 9) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
+    )
+    (symbol "C_0805_10uF_25V_0_0"
+      (text "10uF" (at 0.254 -1.778 0)
+        (effects (font (size 1.27 1.27)) (justify left))
+      )
     )
     (symbol "C_0805_10uF_25V_0_1"
       (polyline

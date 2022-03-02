@@ -1,9 +1,14 @@
-(module Spacer_M1502-B-2545_AL (layer F.Cu) (tedit 602822F4)
-  (fp_text reference REF** (at 0 3) (layer F.SilkS)
+(footprint "Spacer_M1502-B-2545_AL" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 621483A9)
+  (attr through_hole)
+  (fp_text reference "REF**" (at 0 3) (layer "F.SilkS") hide
     (effects (font (size 0.6 0.6) (thickness 0.08)))
+    (tstamp 58b7d774-2abf-4478-814c-abfec95d7da6)
   )
-  (fp_text value Spacer_M1502-B-2545_AL (at 0 -3) (layer F.Fab) hide
+  (fp_text value "Spacer_M1502-B-2545_AL" (at 0 -3) (layer "F.Fab") hide
     (effects (font (size 0.6 0.6) (thickness 0.08)))
+    (tstamp 19d77ac6-f754-4455-8316-024b47ac60aa)
   )
-  (pad 1 thru_hole circle (at 0 0) (size 4.8 4.8) (drill 3.53) (layers *.Cu *.Mask))
+  (pad "1" thru_hole circle (at 0 0) (size 4.8 4.8) (drill 3.53) (layers *.Cu *.Mask) (tstamp c938672c-3027-4d2a-a460-122caffee9cd))
 )

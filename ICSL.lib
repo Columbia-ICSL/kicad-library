@@ -232,11 +232,11 @@ X DIO1 9 -500 150 100 R 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #
-# SensorHub_Module_CONN_V1
+# LegoSENSE_Module_CONN_V1
 #
-DEF SensorHub_Module_CONN_V1 J 0 40 Y Y 1 F N
+DEF LegoSENSE_Module_CONN_V1 J 0 40 Y Y 1 F N
 F0 "J" 0 600 50 H V C CNN
-F1 "SensorHub_Module_CONN_V1" 0 550 50 H V C CNN
+F1 "LegoSENSE_Module_CONN_V1" 0 550 50 H V C CNN
 F2 "ICSL:Amphenol_91911-31321LF_PLUG" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 F4 "https://www.digikey.com/en/products/detail/91911-31321LF/609-3424-1-ND/1878870" 0 0 50 H I C CNN "Digikey"
